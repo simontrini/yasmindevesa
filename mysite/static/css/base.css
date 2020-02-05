@@ -1,16 +1,16 @@
 .text-primary {
-  color: #fd9492 !important;
+  color: #5le6da !important;
 }
 .bg-primary {
-  background-color: #fd9492 !important;
+  background-color: #5le6da !important;
 }
 
 .text-secondary {
-  color: #ff5757 !important;
+  color: #dd13aa !important;
 }
 
 .bg-secondary {
-  background-color: #ff5757 !important;
+  background-color: #dd13aa !important;
 }
 
 .bg-success {
@@ -82,5 +82,9 @@
   color: #ffffff;
   text-decoration: none;
   background-color: transparent;
+}
+
+h1 {
+  font-family: 'Open Sans Semibold';
 }
 
